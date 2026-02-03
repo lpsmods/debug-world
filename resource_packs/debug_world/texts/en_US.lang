@@ -1,0 +1,7 @@
+﻿pack.name=Debug World Resource
+pack.description=Places all the blocks! §8Developer: §6Legopitstop
+
+menu.lpsm_dw:config=Debug World config
+options.lpsm_dw:vanilla=Show vanilla blocks
+options.lpsm_dw:modded=Show '%s' blocks
+chat.lpsm_dw:busy=§cBusy refreshing blocks, try again later.§r

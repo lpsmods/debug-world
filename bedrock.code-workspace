@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "name": "Debug World Add-On",
+      "path": ".",
+    },
+  ],
+  "settings": {
+    "files.associations": {
+      "*.json": "jsonc",
+    },
+    "vscord.app.privacyMode.enable": true,
+  },
+}

@@ -1,0 +1,10 @@
+{
+  "packs": [
+    {
+      "can_be_redownloaded": false,
+      "name": { "en_US": "Debug World Behavior" },
+      "uuid": "a4121c93-e202-42e1-a876-fd8f645cb2c1",
+      "version": [1, 0, 0]
+    }
+  ]
+}
